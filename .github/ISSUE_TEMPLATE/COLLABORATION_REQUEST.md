@@ -19,7 +19,7 @@ A clear and concise description of the topic you would like to discuss.
 If it is a math topic you would like animated, please include links to the relevant academic articles or sources.
 If you would like to help in bringing math to life, please post some of the things you have worked on in the past or a concept of what you would like to make
 
-## Additional context
+### Additional context
 
 Anything else you might want to put down, such as:
 

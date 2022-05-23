@@ -45,6 +45,7 @@ If you would like to chat on discord, please include your name and associated us
 
 ## How do I add math / LaTeX to github issues?
 
-As far as I know, github does not have mathjax support, but there seem to be active discussions on the matter [here](https://gist.github.com/a-rodin/fef3f543412d6e1ec5b6cf55bf197d7b).
+Github has mathjax support, so feel free to just use mathjax like normal!
+It *should* work in most cases.
 
 If you have further questions, please let me know and I'll add them to the list here!

@@ -26,3 +26,4 @@ Anything else you might want to put down, such as:
 * Further contact details (maybe e-mail, maybe discord, maybe neither). Please note: contact details are not required in any way!
 * Additional sources that you think are interesting to the discussion
 * A quick sketch / storyboard of what you have in your head
+* Any additional licensing information. If you do not say anything, this post will be considered [CC-BY](https://creativecommons.org/licenses/by/2.0/).

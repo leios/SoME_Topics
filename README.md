@@ -11,6 +11,12 @@ Note that there will be no files in the repository itself.
 Instead, we will be using github issues to create and maintain discussion threads.
 Here, I will briefly cover any questions you might have regarding the collaboration process.
 
+## Licensing
+
+By default, all issues created for this repository will be under the [CC-BY license](https://creativecommons.org/licenses/by/2.0/) with attribution to those in the discussion thread.
+This license allows anyone to use your discussion for almost any reason, but they must attribute you if they do so.
+Note that if you would like to use a different license (preferrably CC), please mention that in your topic discussion!
+
 ## Do I *need* to use github?
 
 No! Not at all, if you can organically find people through other methods (discord, e-mail, the ArXiv, etc), then this repository is not necessary at all!

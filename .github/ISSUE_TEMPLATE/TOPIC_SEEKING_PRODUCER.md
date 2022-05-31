@@ -1,10 +1,10 @@
 ---
-Title: (What do you want to teach?)
-About: (One sentence description of the topic)
+name: Collaboration Request
+about: Seeking someone to help produce a math explainer
 ---
 
 <!--
-Replace everything above and below in parentheses with the details of your proposed project.
+Replace everything below in parentheses with the details of your proposed project.
 This is just a template, feel free to change it as you see fit.
 If you would like to contact us, we are also available on Discord at https://discord.gg/dsp3zgB4qQ
 -->

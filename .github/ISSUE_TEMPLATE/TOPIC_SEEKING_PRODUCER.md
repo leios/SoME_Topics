@@ -1,6 +1,6 @@
 ---
-name: Collaboration Request
-about: Seeking someone to help produce a math explainer
+name: Topic seeking a producer
+about: Template for domain experts and teachers seeking a collaborator to create a piece of online math exposition.
 ---
 
 <!--

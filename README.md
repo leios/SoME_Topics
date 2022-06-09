@@ -1,7 +1,7 @@
-# SoME Topics
+# SoME2 Matchmaking between experts and content creators
 
 This repository is a space for coordinating collaborations between people interested in producing online math explainers, with a focus on the Summer of Math Exposition (SoME).
-In particular, the aim is to play match-maker between two kinds of people:
+In particular, the aim is to play matchmaker between two kinds of people:
 
 1. Professors, teachers, or anyone else with domain expertise and ideas for what would make a great piece of math exposition, but who may not have the time and content production know-how to fully bring the idea to fruition.
 2. Those interested in content production, whether that means video editing, animation, producing interactive blog posts, or whatever else.

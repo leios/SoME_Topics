@@ -1,6 +1,7 @@
 ---
 name: Topic seeking a producer
 about: Template for domain experts and teachers seeking a collaborator to create a piece of online math exposition.
+labels: "Seeking Content Producer"
 ---
 
 <!--

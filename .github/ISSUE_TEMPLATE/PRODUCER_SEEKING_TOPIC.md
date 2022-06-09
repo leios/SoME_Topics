@@ -1,6 +1,7 @@
 ---
 name: Producer seeking a topic
 about: Template for video creators, animators, illustrators, coders or anyone else looking to partner with a domain expert to produce a great piece of online math exposition.
+labels: "Seeking Domain Expert"
 ---
 
 <!--

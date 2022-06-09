@@ -15,17 +15,17 @@ If you would like to contact us, we are also available on Discord at https://dis
 
 ## Quick Summary
 
-(Offer a brief pitch for what you'd like to teach, and why it matters.)
+(Offer a brief pitch for the lesson you'd like to create. Who is the target audience, and what are you hoping they'll get from the lesson?)
 
 ## Target medium
 
-(Are you hoping for your idea to be produced into a video? An illustrated/interactive article? Anything else?)
+(Are you hoping for your idea to be produced into a video? An illustrated/interactive article? What skillsets are you looking for in a collaborator?)
 
 ### More details
 
-(If this is a topic you've written about elsewhere, e.g. in a paper or blog post, leave a link.)
+(If this is a topic you've written about elsewhere, e.g. in a paper or blog post, please leave a link.)
 
-(If you have an outline or storyboard for the topic, include it here.)
+(If you have an outline or storyboard for the topic, include it here. The more detail the better.)
 
 ### Contact details
 

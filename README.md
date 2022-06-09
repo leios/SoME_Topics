@@ -54,6 +54,12 @@ It *should* work in most cases.
 
 If you have further questions, please let me know and I'll add them to the list here!
 
+## You mentioned seeking collaborators for a 3blue1brown video?
+
+Yes! In the spirit of throwing my own hat into this ring, I (Grant, that is) thought it would be fun to choose one topic posted to this board from a domain expert, and one content proucer of some kind (probably an animator, artist or programmer), and if both are interested in it, I'd coordinate the creation of a 3b1b video between the three of us. I'd happily contribute to the writing, animating, and narrating in whatever way seems most helpful, but a big part of the point would be to showcase the ideas/style of others.
+
+Needless to say, this would not be considered for one of the winners of SoME2, but I'd be happy to compensate any collaborators found this way for their time put into the project.
+
 ## Licensing
 
 By default, all issues created for this repository will be under the [CC-BY license](https://creativecommons.org/licenses/by/2.0/) with attribution to those in the discussion thread.

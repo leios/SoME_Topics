@@ -15,7 +15,7 @@ If you would like to contact us, we are also available on Discord at https://dis
 
 ## Target topic categories
 
-(Share some details about the kinds of topics you would love to help bring to life)
+(Share some details about the kinds of topics you would love to help bring to life.)
 
 ## Target medium
 

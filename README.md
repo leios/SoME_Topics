@@ -1,5 +1,7 @@
 # SoME2 Matchmaking between experts and content creators
 
+**This repo is now archived and is not intended to be used in SoME3 and beyond. Please use the forum channel #project-ideas on [discord](https://discord.gg/fDtPKGcB) instead.**
+
 This repository is a space for coordinating collaborations between people interested in producing online math explainers, with a focus on the Summer of Math Exposition (SoME).
 In particular, the aim is to play matchmaker between two kinds of people:
 
